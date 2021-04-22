@@ -1,0 +1,4 @@
+include ':javalib2'
+include ':javalib'
+include ':app'
+rootProject.name = "Bmi"
